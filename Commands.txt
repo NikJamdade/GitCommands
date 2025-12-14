@@ -2,7 +2,7 @@ cd folder path
 Navigate to the folder
 
 git init
-initialisation of the repo
+Initialisation of the repo
 
 git add file1.txt(filename)
 file is added to the repo and now will be tracked
