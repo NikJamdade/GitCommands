@@ -2,11 +2,9 @@ cd folder path
 Navigate to the folder
 
 git init
-initialisation of the repo
+Initialisation of the repo
 
 git add file1.txt(filename)
 file is added to the repo and now will be tracked
 
 git commit -m "saving first file"
-Saving the work in the file with a commit message
-
