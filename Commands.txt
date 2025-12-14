@@ -21,3 +21,6 @@ Here we are uploading the changes to the remote master
 
 git pull origin master
 Here we're pulling the changes made directly on the repo
+
+git clone https://github.com/erpoexample(repo url)
+Here we're cloning the repo to our local system
