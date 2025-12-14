@@ -13,5 +13,8 @@ Saving the work in the file
 git remote add origin https://github.com/NikJamdade/GitCommands.git(url from the github screen(browser))
 Informing local git where to exactly upload the file
 
+git remote show origin
+Not mandatory but this helps to know where your changes are being pushed
 
-
+git push origin master
+Here we are uploading the changes to the remote master
