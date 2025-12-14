@@ -24,3 +24,6 @@ Here we're pulling the changes made directly on the repo
 
 git clone https://github.com/erpoexample(repo url)
 Here we're cloning the repo to our local system
+
+git checkout ghost(branch name)
+Here we're changing the branch from master to ghost
