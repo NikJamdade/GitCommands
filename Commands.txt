@@ -18,3 +18,6 @@ Not mandatory but this helps to know where your changes are being pushed
 
 git push origin master
 Here we are uploading the changes to the remote master
+
+git pull origin master
+Here we're pulling the changes made directly on the repo
