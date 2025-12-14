@@ -10,3 +10,8 @@ file is added to the repo and now will be tracked
 git commit -m "saving first file"
 Saving the work in the file
 
+git remote add origin https://github.com/NikJamdade/GitCommands.git(url from the github screen(browser))
+Informing local git where to exactly upload the file
+
+
+
